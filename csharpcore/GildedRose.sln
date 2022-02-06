@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GildedRose", "GildedRose\GildedRose.csproj", "{D781C52B-92C0-48BF-8414-177495DF4174}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GildedRoseTests", "GildedRoseTests\GildedRoseTests.csproj", "{CB6715CE-A283-4C70-9C1B-F58822077731}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GildedRoseTests", "GildedRoseTests\GildedRoseTests.csproj", "{CB6715CE-A283-4C70-9C1B-F58822077731}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsole", "TestConsole\TestConsole.csproj", "{DBDC3314-5752-4DF1-9BED-307E6F046A82}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{CB6715CE-A283-4C70-9C1B-F58822077731}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CB6715CE-A283-4C70-9C1B-F58822077731}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CB6715CE-A283-4C70-9C1B-F58822077731}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBDC3314-5752-4DF1-9BED-307E6F046A82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBDC3314-5752-4DF1-9BED-307E6F046A82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBDC3314-5752-4DF1-9BED-307E6F046A82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBDC3314-5752-4DF1-9BED-307E6F046A82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
